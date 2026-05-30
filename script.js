@@ -53,3 +53,4 @@ document.querySelector('nav').appendChild(navToggle);
 navToggle.addEventListener('click', () => {
   document.querySelector('.nav-links').classList.toggle('open');
 });
+
